@@ -1,4 +1,5 @@
 # Stock Market MCP Server
+[![smithery badge](https://smithery.ai/badge/@MCP-100/stock-market-server)](https://smithery.ai/server/@MCP-100/stock-market-server)
 
 一个基于 TypeScript 的 MCP 服务器，用于获取股票市场数据。该服务器通过 Alpha Vantage API 提供实时股票市场信息和公司财务数据。
 
@@ -58,6 +59,14 @@ npm run watch
 ```
 
 ## 安装说明
+
+### Installing via Smithery
+
+To install Stock Market Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@MCP-100/stock-market-server):
+
+```bash
+npx -y @smithery/cli install @MCP-100/stock-market-server --client claude
+```
 
 要在 Claude Desktop 中使用此服务器，需要添加服务器配置：
 
