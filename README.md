@@ -2,6 +2,10 @@
 
 一个基于 TypeScript 的 MCP 服务器，用于获取股票市场数据。该服务器通过 Alpha Vantage API 提供实时股票市场信息和公司财务数据。
 
+<a href="https://glama.ai/mcp/servers/@MCP-100/stock-market-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@MCP-100/stock-market-server/badge" alt="Stock Market Server MCP server" />
+</a>
+
 ## 生成该 MCPServer 的关键信息
 - [.clinerules](https://docs.cline.bot/mcp-servers/mcp-server-from-scratch)
 - [api-key](https://www.alphavantage.co/support/#api-key)
